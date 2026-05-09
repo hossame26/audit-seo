@@ -1,0 +1,21 @@
+# Audits générés
+audits/
+*.html
+!templates/*.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Secrets (jamais)
+.env
+.env.local
+*.key
+*.pem
+api-keys.txt

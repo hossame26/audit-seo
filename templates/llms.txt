@@ -1,0 +1,31 @@
+# Template llms.txt — racine du site
+# Spec : https://llmstxt.org
+
+# NOM DE LA MARQUE
+
+> Description courte de l'entreprise / du site (1-2 phrases). Inclure positionnement et proposition de valeur.
+
+## Pages clés
+
+- [Accueil](https://exemple.com/) : page d'accueil avec catalogue principal
+- [À propos](https://exemple.com/about) : histoire, mission, valeurs
+- [Boutique](https://exemple.com/collections/all) : catalogue complet
+- [Blog](https://exemple.com/blog) : guides et articles experts
+- [Contact](https://exemple.com/contact) : email, formulaire, support
+
+## Catégories produits
+
+- [Catégorie 1](https://exemple.com/collections/cat-1) : description courte
+- [Catégorie 2](https://exemple.com/collections/cat-2) : description courte
+
+## Ressources
+
+- [Guide d'achat](https://exemple.com/blog/guide-achat) : ressource pillar
+- [FAQ](https://exemple.com/pages/faq) : questions fréquentes
+- [Politique de retour](https://exemple.com/policies/refund-policy)
+- [Livraison](https://exemple.com/policies/shipping-policy)
+
+## Optionnel
+
+- [Sitemap XML](https://exemple.com/sitemap.xml)
+- [Flux RSS](https://exemple.com/blog.atom)

@@ -1,0 +1,38 @@
+# Template robots.txt — autoriser SEO + LLMs, bloquer paramètres parasites
+
+User-agent: *
+Allow: /
+Disallow: /*?sort=
+Disallow: /*?filter.
+Disallow: /*?utm_*
+Disallow: /*?gclid=
+Disallow: /*?fbclid=
+Disallow: /cart
+Disallow: /checkout
+Disallow: /account
+Disallow: /search?
+
+# Crawlers IA — autoriser explicitement
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# AdsBot — autoriser pour Google Ads compliance
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+Sitemap: https://EXEMPLE.COM/sitemap.xml

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "NOM DE LA MARQUE",
+  "url": "https://exemple.com",
+  "logo": "https://exemple.com/logo.png",
+  "description": "Description courte de l'entreprise (E-A-T : qui, quoi, pour qui).",
+  "foundingDate": "2024",
+  "email": "contact@exemple.com",
+  "sameAs": [
+    "https://www.wikidata.org/wiki/Q123456",
+    "https://www.instagram.com/marque",
+    "https://www.facebook.com/marque",
+    "https://www.linkedin.com/company/marque",
+    "https://www.youtube.com/@marque",
+    "https://www.tiktok.com/@marque"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "email": "support@exemple.com",
+    "availableLanguage": ["French", "English"]
+  }
+}
